@@ -1,6 +1,6 @@
 ### Data Organization Tool
 
-[![mail](https://cdn.discordapp.com/attachments/918110120494387200/1222496959496060928/send_email.png?ex=66166e04&is=6603f904&hm=c2a5339c19ed448923bc33f074ba6b78d6c732b77528de0276b5ec5ab89273e4&)](mailto:vaibhav.pr21@iiits.in)
+[![mail](https://img.shields.io/badge/Contact-vaibhav.pr21@iiits.in-00cf75)](mailto:vaibhav.pr21@iiits.in)
 
 This Python script is designed to organize and process data stored in CSV files structured in a specific folder hierarchy. It provides functions for data extraction, visualization, and organization into a standardized folder-file structure.
 
